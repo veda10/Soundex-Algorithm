@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/lucene-7.4.0/lucene-7.4.0/demo/lucene-demo-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/lucene-7.4.0/lucene-7.4.0/core/lucene-core-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/lucene-7.4.0/lucene-7.4.0/queryparser/lucene-queryparser-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/lucene-7.4.0/lucene-7.4.0/analysis/common/lucene-analyzers-common-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/sem5/ir/IR_SearchEngine/lib/jwnl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/sem5/ir/IR_SearchEngine/lib/opennlp-maxent-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/sem5/ir/IR_SearchEngine/lib/opennlp-tools-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chakr_000/Documents/sem5/ir/IR_SearchEngine/lib/opennlp-uima-1.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
